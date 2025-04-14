@@ -5,5 +5,6 @@
 <h3 align="center"> ✨ Tech Stack ✨ </h3>
 <div align="center">
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/>
 </div>
 
