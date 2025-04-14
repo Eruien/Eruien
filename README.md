@@ -10,3 +10,16 @@
  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=Unreal Engine&style=flat"/>
 </div>
 
+<h3 align="center"> 🌀 Github Stats 🌀 </h3>
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eruien" height="250" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eruien" height="250" />
+  </a>
+</div>
+
+<h3 align="center"> 🎓 Git Repository 🎓 </h3>
+
+[Repo1]()
