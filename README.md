@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=LEE%20HUISEONG">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HUISEONG%20LEE">
 </div>
 
 <h3 align="center"> ✨ Tech Stack ✨ </h3>
