@@ -22,7 +22,10 @@
 
 <h3 align="center"> 🎓 Git Repository 🎓 </h3>
 
-<div align="center"> 
+<div align="center">
+ <a href="https://github.com/Eruien/ZombieSurvivalClient">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eruien&repo=ZombieSurvivalClient" />
+ </a>
  <a href="https://github.com/Eruien/MonsterChess_Unity_ServerAndClient">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eruien&repo=MonsterChess_Unity_ServerAndClient" />
  </a>
