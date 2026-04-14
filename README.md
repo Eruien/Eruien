@@ -10,16 +10,6 @@
  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </div>
 
-<h3 align="center"> 🌀 Github Stats 🌀 </h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eruien&show_icons=true&theme=radical" height="195" alt="Eruien's Github Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eruien&layout=compact&theme=radical" height="195" alt="Eruien's Top Langs" />
-  </a>
-</p>
-
 <h3 align="center"> 🎓 Git Repository 🎓 </h3>
 
 <div align="center">
